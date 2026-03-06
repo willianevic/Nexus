@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container do currículo */
+body {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: #581e88;
+}
+
+/* Subtítulos */
+h2 {
+    color: #c373d3;
+    border-bottom: 2px solid #ba19e2;
+    padding-bottom: 5px;
+}
+
+/* Texto */
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Listas */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Linha divisória */
+hr {
+    border: none;
+    height: 2px;
+    background: #ad00f1;
+    margin: 20px 0;
+}
+
+/* Destaque para dados pessoais */
+p strong {
+    color: #2c3e50;
+}
